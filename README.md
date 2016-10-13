@@ -1,2 +1,1 @@
-# OJ
-# OJ
+# OJ README
